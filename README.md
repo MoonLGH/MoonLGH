@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MoonL</h1>
 <h3 align="center">A nerd & weebs who loves code</h3>
 
-- 👨‍💻 All of my projects are available at [https://moonlgh.githib.io/Me](https://moonlgh.githib.io/Me)
+- 👨‍💻 All of my projects are available at [https://moonlgh.github.io/](https://moonlgh.github.io/)
 
 - 📫 How to reach me **Discord : MoonL#6995**
 
