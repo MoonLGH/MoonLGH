@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I think im stupid**
 
+- 🏫 School Project Only Account : [Farrel AH](https://github.com/FarrelAH)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moonlisgood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moonlisgood" height="30" width="40" /></a>
