@@ -4,6 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://moonlgh.github.io/](https://moonlgh.github.io/)
 
 - 📫 How to reach me **Discord : MoonL#6995**
+![Discord](https://discord.c99.nl/widget/theme-1/460361291962515457.png)
 
 - ⚡ Fun fact **I think im stupid**
 
