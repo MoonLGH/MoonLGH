@@ -12,7 +12,6 @@
 - 🏫 School Project Only Account : [Farrel AH](https://github.com/FarrelAH)
 <details>
     <summary>More About Contacting Me</summary>
-    <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://twitter.com/moonlisgood" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -29,8 +28,8 @@
     </p>
 </details>
 
-<h3 align="left">Languages and Tools:</h3>
 <details>
+    <summary align="left">Languages and Tools:</summary>
 <p align="left"> <a href="https://angular.io" target="_blank"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a> <a href="https://getbootstrap.com" target="_blank"> <img
