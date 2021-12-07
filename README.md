@@ -68,3 +68,7 @@
   <hr>
     <h2>Github Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=moonlgh&show_icons=true" alt="MoonLGH"></a>
+
+<!-- MAL_ACTIVITY:start -->
+
+<!-- MAL_ACTIVITY:end -->
