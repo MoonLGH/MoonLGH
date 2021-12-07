@@ -1,15 +1,15 @@
-<h1 align="center">Hi I'm MoonL</h1>
+<h1 align="center">Hi ð, I'm MoonL</h1>
 <h3 align="center">A nerd & weebs who loves code</h3>
 
-- All of my projects are available at [https://moonl.me](https://moonl.me/)
+- ð¨âð» All of my projects are available at [https://moonl.me](https://moonl.me/)
 
-- How to reach me **Discord : MoonL#6995**
+- ð« How to reach me **Discord : MoonL#6995**
 
 ![Discord](https://discord.c99.nl/widget/theme-1/460361291962515457.png)
 
-- Fun fact **I think im stupid**
+- â¡ Fun fact **I think im stupid**
 
-- School Project Only Account : [Farrel AH](https://github.com/FarrelAH)
+- ð« School Project Only Account : [Farrel AH](https://github.com/FarrelAH)
 <details>
     <summary>More About Contacting Me</summary>
     <p align="left">
