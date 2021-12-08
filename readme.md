@@ -69,7 +69,6 @@
     <h2>Github Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=moonlgh&show_icons=true" alt="MoonLGH"></a>
 
-<!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://myanimelist.net/anime/46985) Episode 9 on (7/11/2021)
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://myanimelist.net/manga/118625) Chapter 22 on (5/11/2021)
@@ -81,5 +80,3 @@
 - 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 76 on (5/11/2021)
 - 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 75 on (5/11/2021)
 - 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 74 on (5/11/2021)
-
-<!-- MAL_ACTIVITY:end -->
