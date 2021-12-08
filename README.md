@@ -71,6 +71,8 @@
 
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Sasayaku You ni Koi wo Utau](https://myanimelist.net/manga/118625) Chapter 23 on (8/11/2021)
+- 📖 Read [Tonikaku Kawaii](https://myanimelist.net/manga/112589) Chapter 75 on (8/11/2021)
 - 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://myanimelist.net/anime/46985) Episode 9 on (7/11/2021)
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://myanimelist.net/manga/118625) Chapter 22 on (5/11/2021)
 - 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 81 on (5/11/2021)
@@ -79,7 +81,5 @@
 - 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 78 on (5/11/2021)
 - 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 77 on (5/11/2021)
 - 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 76 on (5/11/2021)
-- 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 75 on (5/11/2021)
-- 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 74 on (5/11/2021)
 
 <!-- MAL_ACTIVITY:end -->
