@@ -1,0 +1,17 @@
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest MAL history
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: MyAnimeList readme workflow
+        uses: MoonLGH/MAL-autoreadme@v1
+        with:
+          username: "MoonLMAL"
+          gh_token: ${{ github.token }}
