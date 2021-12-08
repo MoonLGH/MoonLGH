@@ -15,3 +15,4 @@ jobs:
         with:
           username: "MoonLMAL"
           gh_token: ${{ github.token }}
+          readme_path: "MoonLGH/MoonLGH"
