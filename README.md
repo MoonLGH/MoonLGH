@@ -72,15 +72,15 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Kanojo, Okarishimasu](https://myanimelist.net/manga/108407) Chapter 216 on (9/11/2021)
-- 📖 Read [Kanojo, Okarishimasu](https://myanimelist.net/manga/108407) Chapter 217 on (9/11/2021)
-- 📖 Read [Sasayaku You ni Koi wo Utau](https://myanimelist.net/manga/118625) Chapter 23 on (8/11/2021)
-- 📖 Read [Tonikaku Kawaii](https://myanimelist.net/manga/112589) Chapter 75 on (8/11/2021)
-- 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://myanimelist.net/anime/46985) Episode 9 on (7/11/2021)
-- 📖 Read [Sasayaku You ni Koi wo Utau](https://myanimelist.net/manga/118625) Chapter 22 on (5/11/2021)
-- 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 81 on (5/11/2021)
-- 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 80 on (5/11/2021)
-- 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 79 on (5/11/2021)
-- 📖 Read [Kanojo mo Kanojo](https://myanimelist.net/manga/124940) Chapter 78 on (5/11/2021)
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 216 on (4 hours ago)
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (4 hours ago)
+- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 23 on (Yesterday, 9:47 AM)
+- 📖 Read [Tonikaku Kawaii](https://MyAnimeList.net/manga.php?id=112589) Chapter 75 on (Yesterday, 9:44 AM)
+- 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 9 on (Dec 7, 10:50 AM)
+- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 22 on (Dec 5, 2:48 PM)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 81 on (Dec 5, 11:29 AM)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 80 on (Dec 5, 11:28 AM)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 79 on (Dec 5, 11:27 AM)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 78 on (Dec 5, 11:26 AM)
 
 <!-- MAL_ACTIVITY:end -->
