@@ -112,3 +112,24 @@
     <!-- MAL_ANIME_PTW:end -->
 </details>
 
+<details>
+    <summary align="left">MangaList Completed</summary>
+    <!-- MAL_MANGA_COMPLETED:start -->
+    
+    <!-- MAL_MANGA_COMPLETED:end -->
+</details>
+
+<details>
+    <summary align="left">MangaList Watching</summary>
+    <!-- MAL_MANGA_READING:start -->
+    
+    <!-- MAL_MANGA_READING:end -->
+</details>
+
+<details>
+    <summary align="left">MangaList Plan To Watch</summary>
+    <!-- MAL_MANGA_PTR:start -->
+    
+    <!-- MAL_MANGA_PTR:end -->
+</details>
+
