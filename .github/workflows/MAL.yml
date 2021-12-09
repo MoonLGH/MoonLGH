@@ -14,6 +14,6 @@ jobs:
         uses: MoonLGH/MAL-autoreadme@testing
         with:
           username: "MoonLMAL"
-          useScraping: true
-          limit: 15
+          useScraping: "true"
+          limit: "15"
           readme_path: "MoonLGH/MoonLGH"
