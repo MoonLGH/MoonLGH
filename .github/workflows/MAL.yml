@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: MyAnimeList readme workflow
-        uses: MoonLGH/MAL-autoreadme@testing
+        uses: MoonLGH/MAL-autoreadme@v2
         with:
           username: "MoonLMAL"
           useScraping: "true"
