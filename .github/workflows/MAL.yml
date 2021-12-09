@@ -11,8 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: MyAnimeList readme workflow
-        uses: MoonLGH/MAL-autoreadme@v2
+        uses: MoonLGH/MAL-autoreadme@testing
         with:
           username: "MoonLMAL"
-          gh_token: ${{ github.token }}
+          useScraping: true
+          limit: 15
           readme_path: "MoonLGH/MoonLGH"
