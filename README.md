@@ -69,6 +69,7 @@
     <h2>Github Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=moonlgh&show_icons=true" alt="MoonLGH"></a>
 
+<h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://myanimelist.net/manga/118625) Chapter 23 on (8/11/2021)
