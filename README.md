@@ -72,8 +72,8 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 216 on (7 hours ago)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (7 hours ago)
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 216 on (6 hours ago)
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (6 hours ago)
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 23 on (Yesterday, 9:47 AM)
 - 📖 Read [Tonikaku Kawaii](https://MyAnimeList.net/manga.php?id=112589) Chapter 75 on (Yesterday, 9:44 AM)
 - 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 9 on (Dec 7, 10:50 AM)
@@ -89,3 +89,26 @@
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 73 on (Dec 5, 11:15 AM)
 
 <!-- MAL_ACTIVITY:end -->
+
+
+<details>
+    <summary align="left">AnimeList Completed</summary>
+    <!-- MAL_ANIME_COMPLETED:start -->
+    
+    <!-- MAL_ANIME_COMPLETED:end -->
+</details>
+
+<details>
+    <summary align="left">AnimeList Watching</summary>
+    <!-- MAL_ANIME_WATCHING:start -->
+    
+    <!-- MAL_ANIME_WATCHING:end -->
+</details>
+
+<details>
+    <summary align="left">AnimeList Plan To Watch</summary>
+    <!-- MAL_ANIME_PTW:start -->
+    
+    <!-- MAL_ANIME_PTW:end -->
+</details>
+
