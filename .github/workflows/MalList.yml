@@ -10,9 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: MyAnimeList readme workflow
+      - name: MyAnimeList List Readme
         uses: MoonLGH/MAL_Autolist@testing
         with:
           username: "MoonLMAL"
           limit: "15"
+          readme_path: "MoonLGH/MoonLGH"
+      - name: MyAnimeList List Anime
+        uses: MoonLGH/MAL_Autolist@testing
+        with:
+          username: "MoonLMAL"
+          limit: "0"
+          filename: "Anime.md"
+          readme_path: "MoonLGH/MoonLGH"
+      - name: MyAnimeList List Manga
+        uses: MoonLGH/MAL_Autolist@testing
+        with:
+          username: "MoonLMAL"
+          limit: "0"
+          filename: "Manga.md"
           readme_path: "MoonLGH/MoonLGH"
