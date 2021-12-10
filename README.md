@@ -72,6 +72,11 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 12 on (58 seconds ago)
+- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 4 on (1 minute ago)
+- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 3 on (1 minute ago)
+- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 2 on (1 minute ago)
+- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 1 on (1 minute ago)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 216 on (Yesterday, 12:54 AM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (Yesterday, 12:54 AM)
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 23 on (Dec 8, 9:47 AM)
@@ -82,11 +87,6 @@
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 80 on (Dec 5, 11:28 AM)
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 79 on (Dec 5, 11:27 AM)
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 78 on (Dec 5, 11:26 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 77 on (Dec 5, 11:25 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 76 on (Dec 5, 11:24 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 75 on (Dec 5, 11:23 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 74 on (Dec 5, 11:17 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 73 on (Dec 5, 11:15 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
