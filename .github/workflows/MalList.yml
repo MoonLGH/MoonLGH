@@ -11,20 +11,20 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: MyAnimeList List Readme
-        uses: MoonLGH/MAL_Autolist@testing
+        uses: MoonLGH/MAL_Autolist@v1
         with:
           username: "MoonLMAL"
           limit: "15"
           readme_path: "MoonLGH/MoonLGH"
       - name: MyAnimeList List Anime
-        uses: MoonLGH/MAL_Autolist@testing
+        uses: MoonLGH/MAL_Autolist@v1
         with:
           username: "MoonLMAL"
           limit: "0"
           filename: "Anime.md"
           readme_path: "MoonLGH/MoonLGH"
       - name: MyAnimeList List Manga
-        uses: MoonLGH/MAL_Autolist@testing
+        uses: MoonLGH/MAL_Autolist@v1
         with:
           username: "MoonLMAL"
           limit: "0"
