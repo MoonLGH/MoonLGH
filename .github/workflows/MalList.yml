@@ -16,9 +16,6 @@ jobs:
           username: "MoonLMAL"
           limit: "15"
           readme_path: "MoonLGH/MoonLGH"
-      - name: cleaning post process
-        run: rm -r -force ./MAL_Autolist
-        shell: bash
       - name: MyAnimeList List Anime
         uses: MoonLGH/MAL_Autolist@testing
         with:
@@ -26,9 +23,6 @@ jobs:
           limit: "0"
           filename: "Anime.md"
           readme_path: "MoonLGH/MoonLGH"
-      - name: cleaning post process
-        run: rm -r -force ./MAL_Autolist
-        shell: bash
       - name: MyAnimeList List Manga
         uses: MoonLGH/MAL_Autolist@testing
         with:
