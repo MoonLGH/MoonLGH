@@ -72,11 +72,11 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 12 on (12 hours ago)
-- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 4 on (12 hours ago)
-- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 3 on (12 hours ago)
-- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 2 on (12 hours ago)
-- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 1 on (12 hours ago)
+- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 12 on (Yesterday, 12:12 PM)
+- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 4 on (Yesterday, 12:12 PM)
+- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 3 on (Yesterday, 12:12 PM)
+- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 2 on (Yesterday, 12:12 PM)
+- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 1 on (Yesterday, 12:11 PM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 216 on (Dec 9, 12:54 AM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (Dec 9, 12:54 AM)
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 23 on (Dec 8, 9:47 AM)
