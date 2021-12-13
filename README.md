@@ -72,6 +72,9 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 11 on (1 minute ago)
+- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 7 on (2 minutes ago)
+- 📺 Watched [Mieruko-chan](https://MyAnimeList.net/anime.php?id=48483) Episode 11 on (3 minutes ago)
 - 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 12 on (Dec 10, 12:12 PM)
 - 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 4 on (Dec 10, 12:12 PM)
 - 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 3 on (Dec 10, 12:12 PM)
@@ -84,9 +87,6 @@
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (Dec 9, 12:54 AM)
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 23 on (Dec 8, 9:47 AM)
 - 📖 Read [Tonikaku Kawaii](https://MyAnimeList.net/manga.php?id=112589) Chapter 75 on (Dec 8, 9:44 AM)
-- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 22 on (Dec 5, 2:48 PM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 81 on (Dec 5, 11:29 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 80 on (Dec 5, 11:28 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
