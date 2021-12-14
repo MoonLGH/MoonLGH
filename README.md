@@ -72,6 +72,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Manaria Friends](https://MyAnimeList.net/anime.php?id=31537) Episode 10 on (1 hour ago)
 - 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 11 on (Today, 2:43 AM)
 - 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 7 on (Today, 2:43 AM)
 - 📺 Watched [Mieruko-chan](https://MyAnimeList.net/anime.php?id=48483) Episode 11 on (Today, 2:42 AM)
@@ -86,7 +87,6 @@
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 216 on (Dec 9, 12:54 AM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (Dec 9, 12:54 AM)
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 23 on (Dec 8, 9:47 AM)
-- 📖 Read [Tonikaku Kawaii](https://MyAnimeList.net/manga.php?id=112589) Chapter 75 on (Dec 8, 9:44 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
