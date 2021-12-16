@@ -72,21 +72,21 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 12 on (1 minute ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 11 on (4 minutes ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 10 on (8 minutes ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 9 on (10 minutes ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 8 on (14 minutes ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 7 on (18 minutes ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 6 on (22 minutes ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 5 on (24 minutes ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 4 on (28 minutes ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 3 on (38 minutes ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 2 on (41 minutes ago)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 1 on (45 minutes ago)
 - 📺 Watched [Manaria Friends](https://MyAnimeList.net/anime.php?id=31537) Episode 10 on (Dec 13, 4:39 PM)
 - 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 11 on (Dec 13, 2:43 AM)
 - 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 7 on (Dec 13, 2:43 AM)
-- 📺 Watched [Mieruko-chan](https://MyAnimeList.net/anime.php?id=48483) Episode 11 on (Dec 13, 2:42 AM)
-- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 12 on (Dec 10, 12:12 PM)
-- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 4 on (Dec 10, 12:12 PM)
-- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 3 on (Dec 10, 12:12 PM)
-- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 2 on (Dec 10, 12:12 PM)
-- 📺 Watched [Inugami-san to Nekoyama-san](https://MyAnimeList.net/anime.php?id=22123) Episode 1 on (Dec 10, 12:11 PM)
-- 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 9 on (Dec 7, 10:50 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 83 on (Dec 11, 4:34 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 82 on (Dec 11, 4:34 AM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 216 on (Dec 9, 12:54 AM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (Dec 9, 12:54 AM)
-- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 23 on (Dec 8, 9:47 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
