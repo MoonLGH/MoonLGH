@@ -72,6 +72,10 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Manaria Friends](https://MyAnimeList.net/anime.php?id=31537) Episode 10 on (Dec 13, 4:39 PM)
+- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 11 on (Dec 13, 2:43 AM)
+- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 7 on (Dec 13, 2:43 AM)
+- 📺 Watched [Mieruko-chan](https://MyAnimeList.net/anime.php?id=48483) Episode 11 on (Dec 13, 2:42 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 13 on (Dec 16, 11:07 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 12 on (Dec 16, 11:04 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 11 on (Dec 16, 11:02 AM)
@@ -83,10 +87,6 @@
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 5 on (Dec 16, 10:41 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 4 on (Dec 16, 10:38 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 3 on (Dec 16, 10:28 AM)
-- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 2 on (Dec 16, 10:25 AM)
-- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 1 on (Dec 16, 10:21 AM)
-- 📺 Watched [Manaria Friends](https://MyAnimeList.net/anime.php?id=31537) Episode 10 on (Dec 13, 4:39 PM)
-- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 11 on (Dec 13, 2:43 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
