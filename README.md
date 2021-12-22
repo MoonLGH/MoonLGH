@@ -72,8 +72,9 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (4 hours ago)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 84 on (5 hours ago)
+- 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 12 on (18 minutes ago)
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (5 hours ago)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 84 on (6 hours ago)
 - 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 12 on (Dec 20, 5:09 PM)
 - 📺 Watched [Non Non Biyori](https://MyAnimeList.net/anime.php?id=17549) Episode 12 on (Dec 20, 5:08 PM)
 - 📺 Watched [Manaria Friends](https://MyAnimeList.net/anime.php?id=31537) Episode 10 on (Dec 13, 4:39 PM)
@@ -86,7 +87,6 @@
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 10 on (Dec 16, 10:58 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 9 on (Dec 16, 10:55 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 8 on (Dec 16, 10:52 AM)
-- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 7 on (Dec 16, 10:48 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
