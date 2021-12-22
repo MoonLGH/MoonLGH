@@ -72,8 +72,8 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Tsuki to Laika to Nosferatu](https://MyAnimeList.net/anime.php?id=48471) Episode 12 on (52 minutes ago)
-- 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 12 on (7 hours ago)
+- 📺 Watched [Tsuki to Laika to Nosferatu](https://MyAnimeList.net/anime.php?id=48471) Episode 12 on (2 hours ago)
+- 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 12 on (8 hours ago)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (Today, 12:03 AM)
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 84 on (Yesterday, 11:13 PM)
 - 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 12 on (Dec 20, 5:09 PM)
