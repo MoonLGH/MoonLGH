@@ -72,8 +72,8 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (2 hours ago)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 84 on (3 hours ago)
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (3 hours ago)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 84 on (4 hours ago)
 - 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 12 on (Dec 20, 5:09 PM)
 - 📺 Watched [Non Non Biyori](https://MyAnimeList.net/anime.php?id=17549) Episode 12 on (Dec 20, 5:08 PM)
 - 📺 Watched [Manaria Friends](https://MyAnimeList.net/anime.php?id=31537) Episode 10 on (Dec 13, 4:39 PM)
