@@ -72,11 +72,11 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://MyAnimeList.net/anime.php?id=47790) Episode 12 on (2 hours ago)
-- 📺 Watched [Tsuki to Laika to Nosferatu](https://MyAnimeList.net/anime.php?id=48471) Episode 12 on (12 hours ago)
-- 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 12 on (Today, 4:58 AM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (Today, 12:03 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 84 on (Yesterday, 11:13 PM)
+- 📺 Watched [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://MyAnimeList.net/anime.php?id=47790) Episode 12 on (3 hours ago)
+- 📺 Watched [Tsuki to Laika to Nosferatu](https://MyAnimeList.net/anime.php?id=48471) Episode 12 on (Yesterday, 11:16 AM)
+- 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 12 on (Yesterday, 4:58 AM)
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 217 on (Yesterday, 12:03 AM)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 84 on (Dec 21, 11:13 PM)
 - 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 12 on (Dec 20, 5:09 PM)
 - 📺 Watched [Non Non Biyori](https://MyAnimeList.net/anime.php?id=17549) Episode 12 on (Dec 20, 5:08 PM)
 - 📺 Watched [Manaria Friends](https://MyAnimeList.net/anime.php?id=31537) Episode 10 on (Dec 13, 4:39 PM)
