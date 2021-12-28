@@ -72,12 +72,12 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Irozuku Sekai no Ashita kara](https://MyAnimeList.net/anime.php?id=37497) Episode 13 on (2 hours ago)
-- 📺 Watched [Rikei ga Koi ni Ochita no de Shoumei shitemita.](https://MyAnimeList.net/anime.php?id=38992) Episode 12 on (12 hours ago)
-- 📺 Watched [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://MyAnimeList.net/anime.php?id=44037) Episode 13 on (12 hours ago)
-- 📺 Watched [Mieruko-chan](https://MyAnimeList.net/anime.php?id=48483) Episode 12 on (12 hours ago)
-- 📺 Watched [Takt Op. Destiny](https://MyAnimeList.net/anime.php?id=48556) Episode 12 on (12 hours ago)
-- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 12 on (12 hours ago)
+- 📺 Watched [Irozuku Sekai no Ashita kara](https://MyAnimeList.net/anime.php?id=37497) Episode 13 on (3 hours ago)
+- 📺 Watched [Rikei ga Koi ni Ochita no de Shoumei shitemita.](https://MyAnimeList.net/anime.php?id=38992) Episode 12 on (Today, 10:25 AM)
+- 📺 Watched [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://MyAnimeList.net/anime.php?id=44037) Episode 13 on (Today, 10:25 AM)
+- 📺 Watched [Mieruko-chan](https://MyAnimeList.net/anime.php?id=48483) Episode 12 on (Today, 10:25 AM)
+- 📺 Watched [Takt Op. Destiny](https://MyAnimeList.net/anime.php?id=48556) Episode 12 on (Today, 10:25 AM)
+- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 12 on (Today, 10:25 AM)
 - 📺 Watched [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://MyAnimeList.net/anime.php?id=47790) Episode 12 on (Dec 22, 9:31 PM)
 - 📺 Watched [Tsuki to Laika to Nosferatu](https://MyAnimeList.net/anime.php?id=48471) Episode 12 on (Dec 22, 11:16 AM)
 - 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 12 on (Dec 22, 4:58 AM)
