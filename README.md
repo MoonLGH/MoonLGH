@@ -72,11 +72,12 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Rikei ga Koi ni Ochita no de Shoumei shitemita.](https://MyAnimeList.net/anime.php?id=38992) Episode 12 on (10 hours ago)
-- 📺 Watched [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://MyAnimeList.net/anime.php?id=44037) Episode 13 on (10 hours ago)
-- 📺 Watched [Mieruko-chan](https://MyAnimeList.net/anime.php?id=48483) Episode 12 on (10 hours ago)
-- 📺 Watched [Takt Op. Destiny](https://MyAnimeList.net/anime.php?id=48556) Episode 12 on (10 hours ago)
-- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 12 on (10 hours ago)
+- 📺 Watched [Irozuku Sekai no Ashita kara](https://MyAnimeList.net/anime.php?id=37497) Episode 13 on (52 minutes ago)
+- 📺 Watched [Rikei ga Koi ni Ochita no de Shoumei shitemita.](https://MyAnimeList.net/anime.php?id=38992) Episode 12 on (11 hours ago)
+- 📺 Watched [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://MyAnimeList.net/anime.php?id=44037) Episode 13 on (11 hours ago)
+- 📺 Watched [Mieruko-chan](https://MyAnimeList.net/anime.php?id=48483) Episode 12 on (11 hours ago)
+- 📺 Watched [Takt Op. Destiny](https://MyAnimeList.net/anime.php?id=48556) Episode 12 on (11 hours ago)
+- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 12 on (11 hours ago)
 - 📺 Watched [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://MyAnimeList.net/anime.php?id=47790) Episode 12 on (Dec 22, 9:31 PM)
 - 📺 Watched [Tsuki to Laika to Nosferatu](https://MyAnimeList.net/anime.php?id=48471) Episode 12 on (Dec 22, 11:16 AM)
 - 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 12 on (Dec 22, 4:58 AM)
@@ -86,7 +87,6 @@
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 84 on (Dec 21, 11:13 PM)
 - 📺 Watched [Manaria Friends](https://MyAnimeList.net/anime.php?id=31537) Episode 10 on (Dec 13, 4:39 PM)
 - 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 11 on (Dec 13, 2:43 AM)
-- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 7 on (Dec 13, 2:43 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
