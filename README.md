@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I think im stupid**
 
+- ⚡ Fun fact **I dont belive in the power of cache**
+
 - 🏫 School Project Only Account : [Farrel AH](https://github.com/FarrelAH)
 <details>
     <summary>More About Contacting Me</summary>
