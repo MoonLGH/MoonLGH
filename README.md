@@ -74,10 +74,11 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 3 on (11 hours ago)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 2 on (11 hours ago)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 1 on (11 hours ago)
-- 📖 Read [Isekai wa Smartphone to Tomo ni.](https://MyAnimeList.net/manga.php?id=105645) Chapter 63 on (11 hours ago)
+- 📺 Watched [Mahouka Koukou no Rettousei: Tsuioku-hen](https://MyAnimeList.net/anime.php?id=48375) Episode 1 on (55 minutes ago)
+- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 3 on (12 hours ago)
+- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 2 on (12 hours ago)
+- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 1 on (Yesterday, 2:57 PM)
+- 📖 Read [Isekai wa Smartphone to Tomo ni.](https://MyAnimeList.net/manga.php?id=105645) Chapter 63 on (Yesterday, 2:48 PM)
 - 📺 Watched [Irozuku Sekai no Ashita kara](https://MyAnimeList.net/anime.php?id=37497) Episode 13 on (Dec 27, 2021 8:16 PM)
 - 📺 Watched [Rikei ga Koi ni Ochita no de Shoumei shitemita.](https://MyAnimeList.net/anime.php?id=38992) Episode 12 on (Dec 27, 2021 10:25 AM)
 - 📺 Watched [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://MyAnimeList.net/anime.php?id=44037) Episode 13 on (Dec 27, 2021 10:25 AM)
@@ -88,7 +89,6 @@
 - 📺 Watched [Tsuki to Laika to Nosferatu](https://MyAnimeList.net/anime.php?id=48471) Episode 12 on (Dec 22, 2021 11:16 AM)
 - 📺 Watched [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://MyAnimeList.net/anime.php?id=46985) Episode 12 on (Dec 22, 2021 4:58 AM)
 - 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 12 on (Dec 20, 2021 5:09 PM)
-- 📺 Watched [Non Non Biyori](https://MyAnimeList.net/anime.php?id=17549) Episode 12 on (Dec 20, 2021 5:08 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
