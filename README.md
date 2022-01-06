@@ -74,9 +74,9 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 14 on (Yesterday, 6:35 PM)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 35 on (Yesterday, 7:35 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 85 on (Yesterday, 7:17 AM)
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 14 on (Jan 4, 6:35 PM)
+- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 35 on (Jan 4, 7:35 AM)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 85 on (Jan 4, 7:17 AM)
 - 📺 Watched [Mahouka Koukou no Rettousei: Tsuioku-hen](https://MyAnimeList.net/anime.php?id=48375) Episode 1 on (Jan 3, 2:11 AM)
 - 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 34 on (Jan 3, 5:50 PM)
 - 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 33 on (Jan 3, 5:32 PM)
