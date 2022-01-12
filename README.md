@@ -74,6 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 219 on (51 minutes ago)
 - 📖 Read [Adachi to Shimamura](https://MyAnimeList.net/manga.php?id=120071) Chapter 23 on (Yesterday, 4:27 PM)
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 86 on (Yesterday, 4:03 PM)
 - 📺 Watched [Mahouka Koukou no Rettousei: Tsuioku-hen](https://MyAnimeList.net/anime.php?id=48375) Episode 1 on (Jan 3, 2:11 AM)
@@ -88,7 +89,6 @@
 - 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 30 on (Jan 3, 5:24 PM)
 - 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 29 on (Jan 3, 5:23 PM)
 - 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 28 on (Jan 3, 5:19 PM)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 27 on (Jan 3, 5:17 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
