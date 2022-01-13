@@ -74,9 +74,9 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 219 on (Today, 9:18 AM)
-- 📖 Read [Adachi to Shimamura](https://MyAnimeList.net/manga.php?id=120071) Chapter 23 on (Yesterday, 4:27 PM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 86 on (Yesterday, 4:03 PM)
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 219 on (Yesterday, 9:18 AM)
+- 📖 Read [Adachi to Shimamura](https://MyAnimeList.net/manga.php?id=120071) Chapter 23 on (Jan 11, 4:27 PM)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 86 on (Jan 11, 4:03 PM)
 - 📺 Watched [Mahouka Koukou no Rettousei: Tsuioku-hen](https://MyAnimeList.net/anime.php?id=48375) Episode 1 on (Jan 3, 2:11 AM)
 - 📖 Read [Ichido dake demo, Koukai Shitemasu.](https://MyAnimeList.net/manga.php?id=120716) Chapter 7 on (Jan 6, 5:47 PM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 14 on (Jan 4, 6:35 PM)
