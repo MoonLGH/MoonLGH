@@ -106,7 +106,7 @@
     <summary align="left">AnimeList Watching</summary>
     <!-- MAL_ANIME_WATCHING:start -->
 
-<img height="200px" width="150px" title="Daitoshokan no Hitsujikai" src="https://cdn.myanimelist.net/images/anime/9/75230.jpg?s=8df3923f3e8c808ce63b3f9dfb88d338"> <img height="200px" width="150px" title="Gakusen Toshi Asterisk 2nd Season" src="https://cdn.myanimelist.net/images/anime/11/79107.jpg?s=4893fbd0e7f9e6600e6bf3ca3a37cde1"> <img height="200px" width="150px" title="Kuttsukiboshi" src="https://cdn.myanimelist.net/images/anime/7/25761.jpg?s=52020869b25a4a60521439b37d71495f"> <img height="200px" width="150px" title="Shuumatsu no Harem" src="https://cdn.myanimelist.net/images/anime/1491/117296.jpg?s=4e4737581cc951ff3ffd33dc457e9130">
+<img height="200px" width="150px" title="Daitoshokan no Hitsujikai" src="https://cdn.myanimelist.net/images/anime/9/75230.jpg?s=8df3923f3e8c808ce63b3f9dfb88d338"> <img height="200px" width="150px" title="Gakusen Toshi Asterisk 2nd Season" src="https://cdn.myanimelist.net/images/anime/11/79107.jpg?s=4893fbd0e7f9e6600e6bf3ca3a37cde1"> <img height="200px" width="150px" title="Kuttsukiboshi" src="https://cdn.myanimelist.net/images/anime/7/25761.jpg?s=52020869b25a4a60521439b37d71495f"> <img height="200px" width="150px" title="Shuumatsu no Harem" src="https://cdn.myanimelist.net/images/anime/1491/117296.jpg?s=4e4737581cc951ff3ffd33dc457e9130"> <img height="200px" width="150px" title="Tensai Ouji no Akaji Kokka Saisei Jutsu" src="https://cdn.myanimelist.net/images/anime/1263/119511.jpg?s=6f2ae5e436230a6e66c19e746bd9b4fe">
 
 <!-- MAL_ANIME_WATCHING:end -->
 </details>
