@@ -74,6 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://MyAnimeList.net/anime.php?id=47159) Episode 1 on (1 hour ago)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 219 on (Jan 12, 9:18 AM)
 - 📖 Read [Adachi to Shimamura](https://MyAnimeList.net/manga.php?id=120071) Chapter 23 on (Jan 11, 4:27 PM)
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 86 on (Jan 11, 4:03 PM)
@@ -88,7 +89,6 @@
 - 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 31 on (Jan 3, 5:28 PM)
 - 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 30 on (Jan 3, 5:24 PM)
 - 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 29 on (Jan 3, 5:23 PM)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 28 on (Jan 3, 5:19 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
