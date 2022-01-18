@@ -74,6 +74,12 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 14 on (42 seconds ago)
+- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 13 on (6 minutes ago)
+- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 12 on (10 minutes ago)
+- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 11 on (14 minutes ago)
+- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 10 on (17 minutes ago)
+- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 9 on (22 minutes ago)
 - 📺 Watched [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://MyAnimeList.net/anime.php?id=47159) Episode 1 on (Jan 14, 4:15 AM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 219 on (Jan 12, 9:18 AM)
 - 📖 Read [Adachi to Shimamura](https://MyAnimeList.net/manga.php?id=120071) Chapter 23 on (Jan 11, 4:27 PM)
@@ -83,12 +89,6 @@
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 14 on (Jan 4, 6:35 PM)
 - 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 35 on (Jan 4, 7:35 AM)
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 85 on (Jan 4, 7:17 AM)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 34 on (Jan 3, 5:50 PM)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 33 on (Jan 3, 5:32 PM)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 32 on (Jan 3, 5:29 PM)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 31 on (Jan 3, 5:28 PM)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 30 on (Jan 3, 5:24 PM)
-- 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 29 on (Jan 3, 5:23 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
