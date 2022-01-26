@@ -74,6 +74,8 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 15 on (30 minutes ago)
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 221 on (35 minutes ago)
 - 📖 Read [Maou Gakuen no Hangyakusha: Jinrui Hatsu no Maou Kouhou, Kenzoku Shoujo to Ouza wo Mezashite Nariagaru](https://MyAnimeList.net/manga.php?id=128934) Chapter 20 on (Jan 20, 6:11 AM)
 - 📖 Read [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/manga.php?id=90125) Chapter 250 on (Jan 20, 6:03 AM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 220 on (Jan 19, 4:10 PM)
@@ -87,8 +89,6 @@
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 22 on (Jan 18, 9:37 AM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 21 on (Jan 18, 9:36 AM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 20 on (Jan 18, 9:30 AM)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 19 on (Jan 18, 9:29 AM)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 18 on (Jan 18, 9:25 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
