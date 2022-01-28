@@ -74,7 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 29 on (Yesterday, 7:58 AM)
+- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 29 on (Jan 26, 7:58 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 15 on (Jan 25, 6:37 PM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 221 on (Jan 25, 6:32 PM)
 - 📖 Read [Maou Gakuen no Hangyakusha: Jinrui Hatsu no Maou Kouhou, Kenzoku Shoujo to Ouza wo Mezashite Nariagaru](https://MyAnimeList.net/manga.php?id=128934) Chapter 20 on (Jan 20, 6:11 AM)
