@@ -75,7 +75,7 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Gakusen Toshi Asterisk 2nd Season](https://MyAnimeList.net/anime.php?id=31737) Episode 12 on (Yesterday, 5:15 PM)
-- 📖 Read [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/manga.php?id=90125) Chapter 251 on (11 hours ago)
+- 📖 Read [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/manga.php?id=90125) Chapter 251 on (Yesterday, 7:00 PM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 29 on (Jan 26, 7:58 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 15 on (Jan 25, 6:37 PM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 221 on (Jan 25, 6:32 PM)
