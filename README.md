@@ -74,7 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Gakusen Toshi Asterisk 2nd Season](https://MyAnimeList.net/anime.php?id=31737) Episode 12 on (32 minutes ago)
+- 📺 Watched [Gakusen Toshi Asterisk 2nd Season](https://MyAnimeList.net/anime.php?id=31737) Episode 12 on (1 hour ago)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 29 on (Jan 26, 7:58 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 15 on (Jan 25, 6:37 PM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 221 on (Jan 25, 6:32 PM)
