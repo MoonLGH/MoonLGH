@@ -74,6 +74,9 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://MyAnimeList.net/anime.php?id=49930) Episode 4 on (39 minutes ago)
+- 📺 Watched [Wotaku ni Koi wa Muzukashii](https://MyAnimeList.net/anime.php?id=35968) Episode 11 on (40 minutes ago)
+- 📺 Watched [Wotaku ni Koi wa Muzukashii](https://MyAnimeList.net/anime.php?id=35968) Episode 10 on (54 minutes ago)
 - 📺 Watched [Gakusen Toshi Asterisk 2nd Season](https://MyAnimeList.net/anime.php?id=31737) Episode 12 on (Jan 30, 5:15 PM)
 - 📖 Read [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/manga.php?id=90125) Chapter 251 on (Jan 30, 7:00 PM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 29 on (Jan 26, 7:58 AM)
@@ -86,9 +89,6 @@
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 28 on (Jan 18, 10:02 AM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 27 on (Jan 18, 10:01 AM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 26 on (Jan 18, 10:01 AM)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 25 on (Jan 18, 9:41 AM)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 24 on (Jan 18, 9:40 AM)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 23 on (Jan 18, 9:39 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
