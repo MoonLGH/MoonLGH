@@ -74,9 +74,9 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://MyAnimeList.net/anime.php?id=49930) Episode 4 on (Today, 2:27 AM)
-- 📺 Watched [Wotaku ni Koi wa Muzukashii](https://MyAnimeList.net/anime.php?id=35968) Episode 11 on (Today, 2:26 AM)
-- 📺 Watched [Wotaku ni Koi wa Muzukashii](https://MyAnimeList.net/anime.php?id=35968) Episode 10 on (Today, 2:11 AM)
+- 📺 Watched [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://MyAnimeList.net/anime.php?id=49930) Episode 4 on (Yesterday, 2:27 AM)
+- 📺 Watched [Wotaku ni Koi wa Muzukashii](https://MyAnimeList.net/anime.php?id=35968) Episode 11 on (Yesterday, 2:26 AM)
+- 📺 Watched [Wotaku ni Koi wa Muzukashii](https://MyAnimeList.net/anime.php?id=35968) Episode 10 on (Yesterday, 2:11 AM)
 - 📺 Watched [Gakusen Toshi Asterisk 2nd Season](https://MyAnimeList.net/anime.php?id=31737) Episode 12 on (Jan 30, 5:15 PM)
 - 📖 Read [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/manga.php?id=90125) Chapter 251 on (Jan 30, 7:00 PM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 29 on (Jan 26, 7:58 AM)
