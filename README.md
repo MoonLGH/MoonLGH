@@ -82,13 +82,13 @@
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 29 on (Jan 26, 7:58 AM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 15 on (Jan 25, 6:37 PM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 221 on (Jan 25, 6:32 PM)
+- 📺 Watched [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://MyAnimeList.net/anime.php?id=47159) Episode 1 on (Jan 14, 4:15 AM)
 - 📖 Read [Maou Gakuen no Hangyakusha: Jinrui Hatsu no Maou Kouhou, Kenzoku Shoujo to Ouza wo Mezashite Nariagaru](https://MyAnimeList.net/manga.php?id=128934) Chapter 20 on (Jan 20, 6:11 AM)
 - 📖 Read [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/manga.php?id=90125) Chapter 250 on (Jan 20, 6:03 AM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 220 on (Jan 19, 4:10 PM)
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 87 on (Jan 18, 4:05 PM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 28 on (Jan 18, 10:02 AM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 27 on (Jan 18, 10:01 AM)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 26 on (Jan 18, 10:01 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
