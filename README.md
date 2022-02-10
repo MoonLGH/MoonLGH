@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MoonL</h1>
-<h3 align="center">A nerd & weebs who loves code</h3>
+<h3 align="center">A nerd & weeb who loves code</h3>
 
 - 👨‍💻 All of my projects are available at [https://moonl.me](https://moonl.me/)
 
@@ -7,7 +7,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-1/460361291962515457.png)
 
-- ⚡ Fun fact **I think im stupid**
+- ⚡ Fun fact **I'm stupid**
 
 - ⚡ Fun fact **I dont belive in the power of cache**
 
