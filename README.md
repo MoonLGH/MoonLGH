@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://moonl.me](https://moonl.me/)
 
-- 📫 How to reach me **Discord : MoonL#6995**
+- 📫 How to reach me Discord Id : 460361291962515457
 
 ![Discord](https://discord.c99.nl/widget/theme-1/460361291962515457.png)
 
