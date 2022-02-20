@@ -74,7 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 29 on (Yesterday, 10:01 AM)
+- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 29 on (Feb 18, 10:01 AM)
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 28 on (Feb 16, 11:15 AM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 223 on (Feb 16, 10:38 AM)
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 90 on (Feb 16, 10:37 AM)
@@ -86,9 +86,6 @@
 - 📺 Watched [Wotaku ni Koi wa Muzukashii](https://MyAnimeList.net/anime.php?id=35968) Episode 10 on (Feb 1, 2:11 AM)
 - 📺 Watched [Gakusen Toshi Asterisk 2nd Season](https://MyAnimeList.net/anime.php?id=31737) Episode 12 on (Jan 30, 5:15 PM)
 - 📖 Read [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/manga.php?id=90125) Chapter 251 on (Jan 30, 7:00 PM)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 29 on (Jan 26, 7:58 AM)
-- 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 15 on (Jan 25, 6:37 PM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 221 on (Jan 25, 6:32 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
