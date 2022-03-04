@@ -74,7 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 225 on (Yesterday, 2:46 PM)
+- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 225 on (Mar 2, 2:46 PM)
 - 📖 Read [Tonikaku Kawaii](https://MyAnimeList.net/manga.php?id=112589) Chapter 162 on (Mar 1, 4:40 PM)
 - 📖 Read [Anemone wa Netsu wo Obiru](https://MyAnimeList.net/manga.php?id=132975) Chapter 16 on (Feb 28, 2:50 PM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 33 on (Feb 28, 2:45 PM)
