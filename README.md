@@ -85,9 +85,6 @@
 - 📖 Read [Ichido dake demo, Koukai Shitemasu.](https://MyAnimeList.net/manga.php?id=120716) Chapter 8 on (Feb 20, 7:04 PM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 32 on (Feb 20, 12:43 AM)
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 29 on (Feb 18, 10:01 AM)
-- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 28 on (Feb 16, 11:15 AM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 223 on (Feb 16, 10:38 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 90 on (Feb 16, 10:37 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
