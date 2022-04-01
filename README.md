@@ -74,7 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 96 on (9 hours ago)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 96 on (10 hours ago)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 36 on (Mar 28, 4:06 PM)
 - 📖 Read [Ichido dake demo, Koukai Shitemasu.](https://MyAnimeList.net/manga.php?id=120716) Chapter 14 on (Mar 25, 8:19 AM)
 - 📖 Read [Otome Game Sekai wa Mob ni Kibishii Sekai desu](https://MyAnimeList.net/manga.php?id=116157) Chapter 41 on (Mar 23, 3:40 PM)
