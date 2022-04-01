@@ -104,7 +104,7 @@
     <summary align="left">AnimeList Watching</summary>
     <!-- MAL_ANIME_WATCHING:start -->
 
-<img height="200px" width="150px" title="Daitoshokan no Hitsujikai" src="https://cdn.myanimelist.net/images/anime/9/75230.jpg?s=8df3923f3e8c808ce63b3f9dfb88d338"> <img height="200px" width="150px" title="Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2" src="https://cdn.myanimelist.net/images/anime/1088/120068.jpg?s=a05eb7cad967a283894a4748a883133d"> <img height="200px" width="150px" title="Shuumatsu no Harem" src="https://cdn.myanimelist.net/images/anime/1491/117296.jpg?s=4e4737581cc951ff3ffd33dc457e9130"> <img height="200px" width="150px" title="Tensai Ouji no Akaji Kokka Saisei Jutsu" src="https://cdn.myanimelist.net/images/anime/1263/119511.jpg?s=6f2ae5e436230a6e66c19e746bd9b4fe">
+<img height="200px" width="150px" title="Daitoshokan no Hitsujikai" src="https://cdn.myanimelist.net/images/anime/9/75230.jpg?s=e59a9ec24171adac59da08d853210af6"> <img height="200px" width="150px" title="Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2" src="https://cdn.myanimelist.net/images/anime/1088/120068.jpg?s=33be7d88c82f7b3549428460e48b793f"> <img height="200px" width="150px" title="Shuumatsu no Harem" src="https://cdn.myanimelist.net/images/anime/1491/117296.jpg?s=3ae26ae2d2a8405e061a3628473b97d8"> <img height="200px" width="150px" title="Tensai Ouji no Akaji Kokka Saisei Jutsu" src="https://cdn.myanimelist.net/images/anime/1263/119511.jpg?s=4b043cfe67a7cfa8a48b663946fafe1f">
 
 <!-- MAL_ANIME_WATCHING:end -->
 </details>
@@ -123,7 +123,7 @@
     <summary align="left">MangaList Completed</summary>
     <!-- MAL_MANGA_COMPLETED:start -->
 
-<img height="200px" width="150px" title="Nisekoi" src="https://cdn.myanimelist.net/images/manga/1/181212.jpg?s=7ada6e8e58eb828a7ef9d22d6f7f0bf3"> <img height="200px" width="150px" title="Oya ga Urusai node Kouhai (♀) to Gisou Kekkon Shitemita." src="https://cdn.myanimelist.net/images/manga/1/212825.jpg?s=900a5d7a3e8429f57747437e749a3d32">
+<img height="200px" width="150px" title="Nisekoi" src="https://cdn.myanimelist.net/images/manga/1/181212.jpg?s=2d5ecec49a07bc1f244b16fe531ec1a4"> <img height="200px" width="150px" title="Oya ga Urusai node Kouhai (♀) to Gisou Kekkon Shitemita." src="https://cdn.myanimelist.net/images/manga/1/212825.jpg?s=595da58abf2d80db61b130773335b0db">
 
 <!-- MAL_MANGA_COMPLETED:end -->
 </details>
