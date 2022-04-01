@@ -2,7 +2,7 @@
     <summary align="left">MangaList Completed</summary>
     <!-- MAL_MANGA_COMPLETED:start -->
 
-<img height="200px" width="150px" title="Nisekoi" src="https://cdn.myanimelist.net/images/manga/1/181212.jpg?s=7ada6e8e58eb828a7ef9d22d6f7f0bf3"> <img height="200px" width="150px" title="Oya ga Urusai node Kouhai (♀) to Gisou Kekkon Shitemita." src="https://cdn.myanimelist.net/images/manga/1/212825.jpg?s=900a5d7a3e8429f57747437e749a3d32">
+<img height="200px" width="150px" title="Nisekoi" src="https://cdn.myanimelist.net/images/manga/1/181212.jpg?s=2d5ecec49a07bc1f244b16fe531ec1a4"> <img height="200px" width="150px" title="Oya ga Urusai node Kouhai (♀) to Gisou Kekkon Shitemita." src="https://cdn.myanimelist.net/images/manga/1/212825.jpg?s=595da58abf2d80db61b130773335b0db">
 
 <!-- MAL_MANGA_COMPLETED:end -->
 </details>
