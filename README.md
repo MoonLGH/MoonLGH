@@ -74,7 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 96 on (Yesterday, 2:53 AM)
+- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 96 on (Apr 1, 2:53 AM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 36 on (Mar 28, 4:06 PM)
 - 📖 Read [Ichido dake demo, Koukai Shitemasu.](https://MyAnimeList.net/manga.php?id=120716) Chapter 14 on (Mar 25, 8:19 AM)
 - 📖 Read [Otome Game Sekai wa Mob ni Kibishii Sekai desu](https://MyAnimeList.net/manga.php?id=116157) Chapter 41 on (Mar 23, 3:40 PM)
@@ -84,9 +84,6 @@
 - 📖 Read [Isekai wa Smartphone to Tomo ni.](https://MyAnimeList.net/manga.php?id=105645) Chapter 65 on (Mar 22, 11:30 AM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 35 on (Mar 20, 3:38 PM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 226 on (Mar 13, 9:52 PM)
-- 📖 Read [Otome Game Sekai wa Mob ni Kibishii Sekai desu](https://MyAnimeList.net/manga.php?id=116157) Chapter 40 on (Mar 7, 1:59 PM)
-- 📖 Read [Tonikaku Kawaii](https://MyAnimeList.net/manga.php?id=112589) Chapter 163 on (Mar 7, 1:20 PM)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 34 on (Mar 7, 1:19 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
