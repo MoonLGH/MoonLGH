@@ -74,7 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Bokutachi wa Benkyou ga Dekinai](https://MyAnimeList.net/manga.php?id=103890) Chapter 24 on (Yesterday, 11:26 PM)
+- 📖 Read [Bokutachi wa Benkyou ga Dekinai](https://MyAnimeList.net/manga.php?id=103890) Chapter 24 on (Apr 8, 11:26 PM)
 - 📖 Read [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/manga.php?id=90125) Chapter 258 on (Apr 6, 2:54 AM)
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 96 on (Apr 1, 2:53 AM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 36 on (Mar 28, 4:06 PM)
@@ -85,7 +85,6 @@
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 228 on (Mar 23, 3:28 PM)
 - 📖 Read [Isekai wa Smartphone to Tomo ni.](https://MyAnimeList.net/manga.php?id=105645) Chapter 65 on (Mar 22, 11:30 AM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 35 on (Mar 20, 3:38 PM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 226 on (Mar 13, 9:52 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
