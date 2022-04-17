@@ -79,12 +79,6 @@
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 96 on (Apr 1, 2:53 AM)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 36 on (Mar 28, 4:06 PM)
 - 📖 Read [Ichido dake demo, Koukai Shitemasu.](https://MyAnimeList.net/manga.php?id=120716) Chapter 14 on (Mar 25, 8:19 AM)
-- 📖 Read [Otome Game Sekai wa Mob ni Kibishii Sekai desu](https://MyAnimeList.net/manga.php?id=116157) Chapter 41 on (Mar 23, 3:40 PM)
-- 📖 Read [Seirei Gensouki](https://MyAnimeList.net/manga.php?id=108306) Chapter 39 on (Mar 23, 3:37 PM)
-- 📖 Read [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/manga.php?id=90125) Chapter 256 on (Mar 23, 3:32 PM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 228 on (Mar 23, 3:28 PM)
-- 📖 Read [Isekai wa Smartphone to Tomo ni.](https://MyAnimeList.net/manga.php?id=105645) Chapter 65 on (Mar 22, 11:30 AM)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 35 on (Mar 20, 3:38 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
