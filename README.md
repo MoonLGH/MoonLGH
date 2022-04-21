@@ -74,21 +74,21 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 39 on (4 minutes ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 38 on (5 minutes ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 37 on (45 minutes ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 37 on (45 minutes ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 36 on (53 minutes ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 35 on (59 minutes ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 34 on (1 hour ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 33 on (1 hour ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 32 on (1 hour ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 31 on (1 hour ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 30 on (1 hour ago)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 29 on (1 hour ago)
-- 📺 Watched [Kawaii dake ja Nai Shikimori-san](https://MyAnimeList.net/anime.php?id=45613) Episode 1 on (Yesterday, 12:39 AM)
-- 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 2 on (Yesterday, 12:38 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 28 on (1 hour ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 49 on (2 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 48 on (11 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 47 on (14 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 46 on (16 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 45 on (18 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 44 on (32 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 43 on (42 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 42 on (45 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 41 on (52 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 40 on (56 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 39 on (1 hour ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 38 on (1 hour ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 37 on (2 hours ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 37 on (2 hours ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 36 on (2 hours ago)
 
 <!-- MAL_ACTIVITY:end -->
 
