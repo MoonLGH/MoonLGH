@@ -74,16 +74,21 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kawaii dake ja Nai Shikimori-san](https://MyAnimeList.net/anime.php?id=45613) Episode 1 on (Today, 12:39 AM)
-- 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 2 on (Today, 12:38 AM)
-- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 30 on (4 minutes ago)
-- 📖 Read [Otome Game Sekai wa Mob ni Kibishii Sekai desu](https://MyAnimeList.net/manga.php?id=116157) Chapter 42 on (22 minutes ago)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 97 on (12 hours ago)
-- 📖 Read [Bokutachi wa Benkyou ga Dekinai](https://MyAnimeList.net/manga.php?id=103890) Chapter 24 on (Apr 8, 11:26 PM)
-- 📖 Read [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/manga.php?id=90125) Chapter 258 on (Apr 6, 2:54 AM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 96 on (Apr 1, 2:53 AM)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 36 on (Mar 28, 4:06 PM)
-- 📖 Read [Ichido dake demo, Koukai Shitemasu.](https://MyAnimeList.net/manga.php?id=120716) Chapter 14 on (Mar 25, 8:19 AM)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 32 on (1 minute ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 31 on (5 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 30 on (6 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 29 on (7 minutes ago)
+- 📺 Watched [Kawaii dake ja Nai Shikimori-san](https://MyAnimeList.net/anime.php?id=45613) Episode 1 on (Yesterday, 12:39 AM)
+- 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 2 on (Yesterday, 12:38 AM)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 28 on (11 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 27 on (14 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 26 on (17 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 25 on (20 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 24 on (22 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 23 on (25 minutes ago)
+- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 31 on (55 minutes ago)
+- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 30 on (1 hour ago)
+- 📖 Read [Otome Game Sekai wa Mob ni Kibishii Sekai desu](https://MyAnimeList.net/manga.php?id=116157) Chapter 42 on (1 hour ago)
 
 <!-- MAL_ACTIVITY:end -->
 
