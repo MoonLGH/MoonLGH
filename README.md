@@ -74,6 +74,8 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 107 on (51 minutes ago)
+- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 106 on (52 minutes ago)
 - 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 105 on (Yesterday, 4:51 AM)
 - 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 69 on (Yesterday, 4:43 AM)
 - 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 68 on (Yesterday, 4:14 AM)
@@ -87,8 +89,6 @@
 - 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 60 on (Yesterday, 3:22 AM)
 - 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 59 on (Yesterday, 3:18 AM)
 - 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 58 on (Yesterday, 3:11 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 57 on (Yesterday, 3:07 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 56 on (Yesterday, 3:02 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
