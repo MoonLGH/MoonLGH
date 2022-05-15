@@ -74,21 +74,8 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kawaii dake ja Nai Shikimori-san](https://MyAnimeList.net/anime.php?id=45613) Episode 1 on (Apr 20, 12:39 AM)
-- 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 2 on (Apr 20, 12:38 AM)
 - 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 107 on (Apr 22, 11:15 AM)
 - 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 106 on (Apr 22, 11:14 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 105 on (Apr 21, 4:51 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 69 on (Apr 21, 4:43 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 68 on (Apr 21, 4:14 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 67 on (Apr 21, 4:08 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 66 on (Apr 21, 4:06 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 65 on (Apr 21, 4:00 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 64 on (Apr 21, 3:54 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 63 on (Apr 21, 3:49 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 62 on (Apr 21, 3:47 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 61 on (Apr 21, 3:45 AM)
-- 📖 Read [Kakkou no Iinazuke](https://MyAnimeList.net/manga.php?id=123602) Chapter 60 on (Apr 21, 3:22 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
