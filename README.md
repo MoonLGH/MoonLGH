@@ -74,12 +74,12 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 95 on (12 hours ago)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 94 on (12 hours ago)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 93 on (12 hours ago)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 92 on (12 hours ago)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 91 on (12 hours ago)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 90 on (12 hours ago)
+- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 95 on (Yesterday, 8:28 PM)
+- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 94 on (Yesterday, 8:28 PM)
+- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 93 on (Yesterday, 8:28 PM)
+- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 92 on (Yesterday, 8:28 PM)
+- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 91 on (Yesterday, 8:28 PM)
+- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 90 on (Yesterday, 8:28 PM)
 - 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 101 on (May 25, 7:51 PM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 235 on (May 20, 2:34 PM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 234 on (May 20, 2:32 PM)
