@@ -74,6 +74,9 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 39 on (2 hours ago)
+- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 96 on (2 hours ago)
+- 📖 Read [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://MyAnimeList.net/manga.php?id=130893) Chapter 20 on (2 hours ago)
 - 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 95 on (May 28, 8:28 PM)
 - 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 94 on (May 28, 8:28 PM)
 - 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 93 on (May 28, 8:28 PM)
@@ -86,8 +89,6 @@
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 233 on (May 20, 2:32 PM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 232 on (May 20, 2:31 PM)
 - 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 231 on (May 20, 2:31 PM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 230 on (May 20, 2:28 PM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 229 on (May 20, 2:27 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
