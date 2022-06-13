@@ -74,6 +74,14 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 16 on (4 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 15 on (9 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 14 on (12 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 13 on (15 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 12 on (17 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 11 on (24 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 10 on (29 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 9 on (33 minutes ago)
 - 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 39 on (Jun 3, 5:52 PM)
 - 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 96 on (Jun 3, 5:51 PM)
 - 📖 Read [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://MyAnimeList.net/manga.php?id=130893) Chapter 20 on (Jun 3, 5:49 PM)
@@ -81,14 +89,6 @@
 - 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 94 on (May 28, 8:28 PM)
 - 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 93 on (May 28, 8:28 PM)
 - 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 92 on (May 28, 8:28 PM)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 91 on (May 28, 8:28 PM)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 90 on (May 28, 8:28 PM)
-- 📖 Read [Kanojo mo Kanojo](https://MyAnimeList.net/manga.php?id=124940) Chapter 101 on (May 25, 7:51 PM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 235 on (May 20, 2:34 PM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 234 on (May 20, 2:32 PM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 233 on (May 20, 2:32 PM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 232 on (May 20, 2:31 PM)
-- 📖 Read [Kanojo, Okarishimasu](https://MyAnimeList.net/manga.php?id=108407) Chapter 231 on (May 20, 2:31 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
