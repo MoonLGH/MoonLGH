@@ -74,21 +74,21 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 16 on (4 minutes ago)
-- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 15 on (9 minutes ago)
-- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 14 on (12 minutes ago)
-- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 13 on (15 minutes ago)
-- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 12 on (17 minutes ago)
-- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 11 on (24 minutes ago)
-- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 10 on (29 minutes ago)
-- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 9 on (33 minutes ago)
-- 📖 Read [Dual na Kanojo no Taoshikata](https://MyAnimeList.net/manga.php?id=137003) Chapter 39 on (Jun 3, 5:52 PM)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 96 on (Jun 3, 5:51 PM)
-- 📖 Read [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://MyAnimeList.net/manga.php?id=130893) Chapter 20 on (Jun 3, 5:49 PM)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 95 on (May 28, 8:28 PM)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 94 on (May 28, 8:28 PM)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 93 on (May 28, 8:28 PM)
-- 📖 Read [Tensei shitara Slime Datta Ken](https://MyAnimeList.net/manga.php?id=87609) Chapter 92 on (May 28, 8:28 PM)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 32 on (5 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 31 on (7 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 30 on (9 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 29 on (11 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 28 on (15 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 27 on (18 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 26 on (20 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 25 on (23 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 24 on (25 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 23 on (28 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 22 on (32 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 21 on (35 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 20 on (37 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 20 on (37 minutes ago)
+- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 19 on (40 minutes ago)
 
 <!-- MAL_ACTIVITY:end -->
 
