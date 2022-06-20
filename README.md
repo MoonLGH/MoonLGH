@@ -74,6 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Ichido dake demo, Koukai Shitemasu.](https://MyAnimeList.net/manga.php?id=120716) Chapter 21 on (3 minutes ago)
 - 📖 Read [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://MyAnimeList.net/manga.php?id=119656) Chapter 38 on (Jun 17, 10:15 PM)
 - 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 42 on (Jun 13, 11:41 AM)
 - 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 41 on (Jun 13, 11:38 AM)
@@ -88,7 +89,6 @@
 - 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 33 on (Jun 13, 11:15 AM)
 - 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 33 on (Jun 13, 11:15 AM)
 - 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 32 on (Jun 13, 11:06 AM)
-- 📖 Read [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://MyAnimeList.net/manga.php?id=114843) Chapter 31 on (Jun 13, 11:04 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
