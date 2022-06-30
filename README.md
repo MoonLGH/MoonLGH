@@ -74,6 +74,7 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 32 on (15 minutes ago)
 - 📖 Read [Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara](https://MyAnimeList.net/manga.php?id=112000) Chapter 48 on (Jun 24, 11:57 AM)
 - 📖 Read [Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara](https://MyAnimeList.net/manga.php?id=112000) Chapter 47 on (Jun 24, 11:56 AM)
 - 📖 Read [Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara](https://MyAnimeList.net/manga.php?id=112000) Chapter 46 on (Jun 24, 11:56 AM)
@@ -88,7 +89,6 @@
 - 📖 Read [Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara](https://MyAnimeList.net/manga.php?id=112000) Chapter 37 on (Jun 24, 11:49 AM)
 - 📖 Read [Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara](https://MyAnimeList.net/manga.php?id=112000) Chapter 36 on (Jun 24, 11:49 AM)
 - 📖 Read [Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara](https://MyAnimeList.net/manga.php?id=112000) Chapter 35 on (Jun 24, 11:48 AM)
-- 📖 Read [Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara](https://MyAnimeList.net/manga.php?id=112000) Chapter 34 on (Jun 24, 11:47 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
