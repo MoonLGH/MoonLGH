@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MoonL</h1>
 <h3 align="center">A nerd & weeb who loves code</h3>
 
-- 👨‍💻 All of my projects are available at [https://moonl.me](https://moonl.me/)
+- 👨‍💻 All of my projects are available at [Tcukawi.tech](https://tcukawi.tech)
 
 - 📫 How to reach me Discord Id : 460361291962515457
 
