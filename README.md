@@ -86,9 +86,6 @@
 - 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 3 on (Jul 10, 12:25 PM)
 - 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 2 on (Jul 10, 12:18 PM)
 - 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 1 on (Jul 10, 12:13 PM)
-- 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 32 on (Jun 30, 1:52 PM)
-- 📖 Read [Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara](https://MyAnimeList.net/manga.php?id=112000) Chapter 48 on (Jun 24, 11:57 AM)
-- 📖 Read [Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara](https://MyAnimeList.net/manga.php?id=112000) Chapter 47 on (Jun 24, 11:56 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
