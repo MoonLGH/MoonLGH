@@ -75,17 +75,6 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📖 Read [Sasayaku You ni Koi wo Utau](https://MyAnimeList.net/manga.php?id=118625) Chapter 33 on (Jul 19, 11:07 AM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 11 on (Jul 10, 12:58 PM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 10 on (Jul 10, 12:55 PM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 9 on (Jul 10, 12:52 PM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 8 on (Jul 10, 12:42 PM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 7 on (Jul 10, 12:39 PM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 6 on (Jul 10, 12:37 PM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 5 on (Jul 10, 12:36 PM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 4 on (Jul 10, 12:32 PM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 3 on (Jul 10, 12:25 PM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 2 on (Jul 10, 12:18 PM)
-- 📖 Read [Watashi Igai Jinrui Zenin Yuri](https://MyAnimeList.net/manga.php?id=117355) Chapter 1 on (Jul 10, 12:13 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
