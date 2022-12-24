@@ -7,7 +7,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-1/460361291962515457.png)
 
-- ⚡ Fun fact **I'm stupid**
+- ⚡ Fun fact **I actually stopped using VSC(Visual Studio Code) started early 2022, and uses gitpod.io/code-server instead** 
 
 - ⚡ Fun fact **I dont belive in the power of cache**
 
