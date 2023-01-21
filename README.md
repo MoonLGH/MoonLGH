@@ -13,7 +13,7 @@
 
 - 🏫 School Project Only Account : [Farrel AH](https://github.com/FarrelAH)
 
-- 🏫 Manager of Rekayasa Perangkat Lunak (RPL) Extracurricular in SMAN 1 CIKAMPEK
+- 🏫 Manager of [Rekayasa Perangkat Lunak (RPL) Extracurricular](https://github.com/RPLSaci) in SMAN 1 CIKAMPEK
 
 <details>
     <summary>More About Contacting Me</summary>
