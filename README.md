@@ -7,11 +7,14 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-1/460361291962515457.png)
 
-- ⚡ Fun fact **I actually stopped using VSC(Visual Studio Code) started early 2022, and uses gitpod.io/code-server instead** 
+- ⚡ Fun fact **I actually stopped using VSC(Visual Studio Code) from early 2022, and uses gitpod.io/code-server instead** 
 
 - ⚡ Fun fact **I dont belive in the power of cache**
 
 - 🏫 School Project Only Account : [Farrel AH](https://github.com/FarrelAH)
+
+- 🏫 Manager of Rekayasa Perangkat Lunak (RPL) Extracurricular in SMAN 1 CIKAMPEK
+
 <details>
     <summary>More About Contacting Me</summary>
     <p align="left">
@@ -104,33 +107,5 @@
 <img height="200px" width="150px" title="86 Part 2" src="https://cdn.myanimelist.net/images/anime/1321/117508.jpg?s=acffaeec0b998e5bc836b55b2fe73456"> <img height="200px" width="150px" title="Arifureta Shokugyou de Sekai Saikyou 2nd Season" src="https://cdn.myanimelist.net/images/anime/1877/119668.jpg?s=b0a58a0102635e03b419029edf2d51cf"> <img height="200px" width="150px" title="Boku no Hero Academia 5th Season" src="https://cdn.myanimelist.net/images/anime/1911/113611.jpg?s=0dd15fed60fd27b38532a8a43ffdc511"> <img height="200px" width="150px" title="Date A Live IV" src="https://cdn.myanimelist.net/images/anime/1368/121281.jpg?s=188e76237e371d17c9cb9d3ef9b8ffdf"> <img height="200px" width="150px" title="Flip Flappers" src="https://cdn.myanimelist.net/images/anime/4/82292.jpg?s=a1d4bf28189c9f766c6606dbc4ae2ee0"> <img height="200px" width="150px" title="Gridman x Dynazenon" src="https://cdn.myanimelist.net/images/anime/1486/120060.jpg?s=a792239bf1e5ba21da311652a7de314a"> <img height="200px" width="150px" title="Happy Sugar Life" src="https://cdn.myanimelist.net/images/anime/1386/103920.jpg?s=d53c2e5946b9cfcde49db0da890b64bd"> <img height="200px" width="150px" title="Hataraku Maou-sama! 2nd Season" src="https://cdn.myanimelist.net/images/anime/1543/120053.jpg?s=4ece6531d42bc9c11bac641163948490"> <img height="200px" width="150px" title="Hentai Ouji to Warawanai Neko." src="https://cdn.myanimelist.net/images/anime/3/75788.jpg?s=bfec1bcaeca7c8071cefb74d57a77e4a"> <img height="200px" width="150px" title="Isekai Quartet Movie: Another World" src="https://cdn.myanimelist.net/images/anime/1222/122000.jpg?s=d7569371a81fd6dc79c4285db056d7e1"> <img height="200px" width="150px" title="Kaguya-sama wa Kokurasetai: Ultra Romantic" src="https://cdn.myanimelist.net/images/anime/1160/122627.jpg?s=1e566ad21620c15a9f523d9779abf8aa"> <img height="200px" width="150px" title="Kanojo, Okarishimasu 2nd Season" src="https://cdn.myanimelist.net/images/anime/1427/120522.jpg?s=72f9222c51f72986c7e24adca6abbda4"> <img height="200px" width="150px" title="Karakai Jouzu no Takagi-san 3" src="https://cdn.myanimelist.net/images/anime/1861/120361.jpg?s=b61dcb0ad5880e97987cb7d31e7ba601"> <img height="200px" width="150px" title="Kimetsu no Yaiba" src="https://cdn.myanimelist.net/images/anime/1286/99889.jpg?s=df53be1440a076de57fda204bba4de60"> <img height="200px" width="150px" title="Komi-san wa, Comyushou desu." src="https://cdn.myanimelist.net/images/anime/1899/117237.jpg?s=1ae3e5a7671ca90a21a816e207796484">
 
 <!-- MAL_ANIME_PTW:end -->
-</details>
-
-# Manga List [View More](https://github.com/MoonLGH/MoonLGH/blob/main/Manga.md)
-<details>
-    <summary align="left">MangaList Completed</summary>
-    <!-- MAL_MANGA_COMPLETED:start -->
-
-<img height="200px" width="150px" title="Nisekoi" src="https://cdn.myanimelist.net/images/manga/1/181212.jpg?s=2d5ecec49a07bc1f244b16fe531ec1a4"> <img height="200px" width="150px" title="Oya ga Urusai node Kouhai (♀) to Gisou Kekkon Shitemita." src="https://cdn.myanimelist.net/images/manga/1/212825.jpg?s=595da58abf2d80db61b130773335b0db">
-
-<!-- MAL_MANGA_COMPLETED:end -->
-</details>
-
-<details>
-    <summary align="left">MangaList Watching</summary>
-    <!-- MAL_MANGA_READING:start -->
-
-<img height="200px" width="150px" title="Adachi to Shimamura" src="https://cdn.myanimelist.net/images/manga/2/232193.jpg?s=ed81f0833d1edd350701d7c802f56167"> <img height="200px" width="150px" title="Ane Kyun!" src="https://cdn.myanimelist.net/images/manga/1/129425.jpg?s=243a424d09eca066e4cec3d409095f54"> <img height="200px" width="150px" title="Anemone wa Netsu wo Obiru" src="https://cdn.myanimelist.net/images/manga/3/246368.jpg?s=49261be33ea26ecbb30ba605db020a42"> <img height="200px" width="150px" title="Bokutachi wa Benkyou ga Dekinai" src="https://cdn.myanimelist.net/images/manga/3/197080.jpg?s=a6b66b658d1d6a8b786436c671345692"> <img height="200px" width="150px" title="Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha." src="https://cdn.myanimelist.net/images/manga/3/221517.jpg?s=54b38691e4eaef44853f86bb75bf8191"> <img height="200px" width="150px" title="Dual na Kanojo no Taoshikata" src="https://cdn.myanimelist.net/images/manga/3/250747.jpg?s=8012013320e4cf3a21292bb166ae8ea5"> <img height="200px" width="150px" title="Futaba-san Chi no Kyoudai" src="https://cdn.myanimelist.net/images/manga/1/199986.jpg?s=faecf24dc06d1057727ee5b6f7285fb4"> <img height="200px" width="150px" title="Ichido dake demo, Koukai Shitemasu." src="https://cdn.myanimelist.net/images/manga/2/226062.jpg?s=b07cfd32f7fb70fb9f4f2ac20d1c3278"> <img height="200px" width="150px" title="Isekai Harem Monogatari" src="https://cdn.myanimelist.net/images/manga/1/247076.jpg?s=f7552f42f89b0447da6e025a8e536044"> <img height="200px" width="150px" title="Isekai wa Smartphone to Tomo ni." src="https://cdn.myanimelist.net/images/manga/3/175220.jpg?s=a42dec4a85ac7e0f59d3b3297d36ea54"> <img height="200px" width="150px" title="Isekai wa Smartphone to Tomo ni." src="https://cdn.myanimelist.net/images/manga/2/197687.jpg?s=0781d5e335e72d9d03ede635d9df2ee5"> <img height="200px" width="150px" title="Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen" src="https://cdn.myanimelist.net/images/manga/3/188896.jpg?s=a2844cb4d66895f66a46a15ac776d0de"> <img height="200px" width="150px" title="Kakkou no Iinazuke" src="https://cdn.myanimelist.net/images/manga/5/233993.jpg?s=1098114b6b13fd8d863bc8e7089f87d4"> <img height="200px" width="150px" title="Kanojo mo Kanojo" src="https://cdn.myanimelist.net/images/manga/1/231307.jpg?s=005cf27d6c467704b22cad5f612becea"> <img height="200px" width="150px" title="Kanojo, Okarishimasu" src="https://cdn.myanimelist.net/images/manga/3/201707.jpg?s=b2dded6559b779cfdb204f7ce7cef345">
-
-<!-- MAL_MANGA_READING:end -->
-</details>
-
-<details>
-    <summary align="left">MangaList Plan To Watch</summary>
-    <!-- MAL_MANGA_PTR:start -->
-
-<img height="200px" width="150px" title="Blend S" src="https://cdn.myanimelist.net/images/manga/2/149976.jpg?s=a25f443dc164243e5c8b2ac4ef2e3ed5"> <img height="200px" width="150px" title="Gakkou no Sensei" src="https://cdn.myanimelist.net/images/manga/5/62185.jpg?s=589d41c822a1df370ecaa87645b29781"> <img height="200px" width="150px" title="Kase-san Series" src="https://cdn.myanimelist.net/images/manga/1/215181.jpg?s=0ceb70ff9260246a1192fe3b2ca7e508"> <img height="200px" width="150px" title="SQ: Begin W/Your Name!" src="https://cdn.myanimelist.net/images/manga/3/165495.jpg?s=7208ce6c071e744fd0748de1d945ad78"> <img height="200px" width="150px" title="Watashi ni Tenshi ga Maiorita!" src="https://cdn.myanimelist.net/images/manga/1/196509.jpg?s=73d146154f595cde8157ee99aa294c5d">
-
-<!-- MAL_MANGA_PTR:end -->
 </details>
 
