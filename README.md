@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I dont belive in the power of cache**
 
+- ⚡ Fun fact **I got photic sneeze reflex**
+
 - 🏫 School Project Only Account : [Farrel AH](https://github.com/FarrelAH)
 
 - 🏫 Manager of [Rekayasa Perangkat Lunak (RPL) Extracurricular](https://github.com/RPLSaci) in SMAN 1 CIKAMPEK
